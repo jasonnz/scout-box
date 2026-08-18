@@ -1,0 +1,17 @@
+# Ignore log files
+logs/
+*.log
+
+# Ignore image files
+images/
+*.jpg
+*.jpeg
+*.png
+*.txt
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment / secrets
+.env

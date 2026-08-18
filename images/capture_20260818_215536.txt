@@ -1,2 +1,0 @@
-Simulated photo capture at 2026-08-18T21:55:36.010078
-(Replace this with actual camera code when hardware arrives.)
